@@ -6,9 +6,11 @@
 echo Summarize the change:
 read subject
 
+echo ""
 echo JIRA issue:
 read jira
 
+echo ""
 echo Describe what this commit changes, why and how:
 read body
 
