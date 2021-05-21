@@ -1,7 +1,9 @@
 #!/bin/bash
 
+#
 # this script simplifies writing git commit messages. 
 # Its based on this great blogpost: https://chris.beams.io/posts/git-commit/
+#
 
 echo Summarize the change:
 read subject
