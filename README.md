@@ -1,4 +1,4 @@
-# how-to-write-a-git-commit-message
+# How to write a git commit message
 
 This repository contains a commit script which simplifies writing good git commit messages.
 
